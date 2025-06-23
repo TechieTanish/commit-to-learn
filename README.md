@@ -3,3 +3,7 @@
 ✨ Practicing good Git habits — commit, branch, pull request, merge — like a DevOps builder in the making!  
 
 🦈While practicing Git & GitHub workflows, I’m also exploring achievement systems like the Pull Shark badge to keep it fun!
+
+ 
+📚 Repo: commit-to-learn — because learning never stops.
+Author : Tanish
